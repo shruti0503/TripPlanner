@@ -1,2 +1,5 @@
 vite 
 
+compoent s -> custom header 
+in main.js 
+app .js deault landkning -> hearo compoen 
